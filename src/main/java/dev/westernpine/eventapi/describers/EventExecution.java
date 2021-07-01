@@ -8,7 +8,7 @@ public enum EventExecution {
 	END(),
 	LAST(),
 	POST(),
-	MONITOR(),
+	FINAL(),
 	;
 
 }
